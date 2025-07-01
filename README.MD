@@ -48,8 +48,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/VARUN-K-S/Little-Lemon-restaurant.git
-   cd Little-Lemon-restaurant
+   git clone https://github.com/VarunManoj-Amritha/Little-Lemon-restaurant.git   
    ```
 
 2. **Create and activate a virtual environment:**
@@ -59,6 +58,4 @@ Before you begin, ensure you have the following installed:
    ```bash
    python -m venv venv
    ```
-
-   **On Windows:**
    
