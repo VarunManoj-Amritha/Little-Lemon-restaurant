@@ -6,8 +6,7 @@ This repository contains the backend for the Little Lemon Restaurant application
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-
+- [Getting Started](#getting-started)`
 
 ## Features
 
